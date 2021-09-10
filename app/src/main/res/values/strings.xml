@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lista de Contatos</string>
+    <string name="menu1">Menu 1</string>
+    <string name="menu2">Menu 2</string>
+
+    <string name="opendrawer">Abrir</string>
+    <string name="closedrawer">Fechar</string>
+    <string name="nome_do_contato">Nome do Contato</string>
+    <string name="number_telephone">(00) 99968–8054</string>
+</resources>
